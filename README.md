@@ -62,5 +62,3 @@ Aqui vão alguns projetos legais que já fiz:
 - Projetar soluções com propósito prático e impacto
 
 ---
-
-<p align="center">“Aprender, construir e colaborar — todo dia.”</p>
