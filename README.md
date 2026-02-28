@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Juan Ribeiro 👋</h1>
+<h1 align="center">Olá! Eu sou o Juan Ribeiro </h1>
 
 <div align="center">
   <a href="https://github.com/juan-ribeiro02">
@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante do 2º período de Análise e Desenvolvimento de Sistemas (FAETERJ)  
 Fascinado por tecnologia, inovação e desenvolvimento de software.  
@@ -19,7 +19,7 @@ Atualmente, foco meus estudos em **Python, desenvolvimento web (HTML/CSS/JS)** e
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 Aqui estão algumas linguagens, frameworks e ferramentas que uso ou estudo:
 
@@ -33,7 +33,7 @@ Aqui estão algumas linguagens, frameworks e ferramentas que uso ou estudo:
 
 ---
 
-## 💡 Projetos em Destaque
+##  Projetos em Destaque
 
 Aqui vão alguns projetos legais que já fiz:
 
@@ -45,7 +45,7 @@ Aqui vão alguns projetos legais que já fiz:
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: [Juan Ribeiro de Azevedo](https://www.linkedin.com/in/juan-ribeiro-de-azevedo)  
 - Email: **juan.rib02@gmail.com**  
@@ -53,7 +53,7 @@ Aqui vão alguns projetos legais que já fiz:
 
 ---
 
-## 🎯 Objetivos & Próximos Passos
+##  Objetivos & Próximos Passos
 
 - Contribuir com projetos open source  
 - Criar aplicações completas (frontend, backend)  
